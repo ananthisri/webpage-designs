@@ -1,0 +1,214 @@
+.header{
+	background-color:#424242;
+	color:white;
+}
+
+.col-md-3.img{
+	float:right;
+}
+
+.round{
+	border-color:2px black;
+	border-radius:50px;
+	border-width: 50px;
+	border-height:50px;
+	margin-left:center;
+	height:50px;
+}
+
+.footer{
+	width: 100px;
+  height: 60px;
+  background-color: white;
+  moz-border-radius: -5px;
+  -webkit-border-radius: 6px;
+  border: 5px solid grey;
+  padding: 10px;
+ float:center;
+}
+
+.border{
+	border-bottom:dotted #ffffff;
+}
+
+.header{
+	font-family: 'Open Sans', sans-serif;	
+}
+
+.headstyle{
+	text-align:left; 
+	font-size: 13px;
+	top:100px;
+	left:100px;
+}
+
+.headparastyle{
+text-align:center; padding:200px; line-height: 75px;
+}
+
+.headboldstyle{
+	font-size:45px;
+	font-weight:bold;
+}
+
+.btn-primary{
+font-size:15px; background-color: #424242; height: 45px; width: 135px; padding:10px ;border-color:white;
+}
+
+.second{
+font-family: 'Open Sans', sans-serif; background-color:#F5F5F5; 
+}
+
+.secstyle{
+	text-align:center; line-height: 70px; font-size:33px;
+	font-weight:bold;
+}
+
+.secstyles{
+	text-align:center; line-height: 30px; font-size:17px;
+	line-height:35px;
+
+}
+
+.third{
+	font-family: 'Open Sans', sans-serif;
+}
+
+.row{
+margin-left:10px;
+}
+
+.rowone{
+	float:right; left:100px;
+}
+
+.caption{
+	float:right;
+}
+
+.rows{
+	margin-left:10px;
+}
+
+.fourth{
+	font-family: 'Open Sans', sans-serif; background-color:lightgrey;
+}
+
+.img1{
+	font-size:20px;
+}
+
+.img11{
+	font-size:25px;
+	font-weight:bold;
+}
+
+.first,.firsttxt.fourth4,.fourthtxt{
+	margin-left:25px;float:left;
+}
+
+.second4,.third4,.fifth,.sixth{
+	margin-left:25px; float:right;
+}
+
+.color,.color1{
+background-color:lightgreen;
+}
+
+.secondtxt,.thirdtxt,.fifthtxt,.sixthtxt{
+float:right;margin-left:200px;
+}
+
+.upfooter{
+	padding:30px;
+	background-color:#E57373;
+	color:white;
+}
+
+.up{
+	font-size:25px;
+	margin-left:250px;
+}
+
+.btn-success{
+	background-color:#E57373;
+	border-color:white;
+	width:185px;
+	height:50px;
+	font-size:14px;
+	font-weight:bold;
+	letter-spacing: 2px;
+	float:center;
+	margin-left:575px;
+	padding:center;
+	top:-45px;
+	position:relative;
+}
+
+.firsttxt{
+	position: relative;
+	top: -1px;
+	font-size:14px;
+	color:black;
+	width: 383px;
+	height:275px;
+	padding:55px;
+	text-align:center;
+	background-color:white;
+	font-family:  'Open Sans', sans-serif;
+}
+
+.secondtxt{
+position: relative;
+	top: -1px;
+	color:black;
+	width: 383px;
+	height:275px;
+	padding:53px;
+	text-align:center;
+	background-color:white;
+	left:33px;	
+}
+.thirdtxt{
+	position: relative;
+	top: -1px;
+	color:black;
+	width: 383px;
+	height:275px;
+	padding:50px;
+	text-align:center;
+	background-color:white;
+	left:34px;
+}
+
+.secondtxtdiv{
+	padding:0px;
+	background-color:white;	
+}
+
+.row1div1{
+	position:relative;
+	padding:25px;	
+	left:-2px;
+	width:100%;
+	height:50%;
+	
+}
+
+.row1div2{
+	position:relative;
+	left:-15px;
+	padding:25px;
+	width:100%;
+	height:50%;
+
+}
+
+.row1div3{
+	position:relative;
+	left:-30px;
+	padding:25px;
+	width:100%;
+	height:50%;
+	right:-20px;
+}
